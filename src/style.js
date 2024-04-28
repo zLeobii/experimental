@@ -23,6 +23,8 @@ const styles = {
       "text-p3 font-bold font-merriweather text-neutral3",
     center:
       "flex justify-center items-center",
+    transition:
+      "transition duration-500 ease-out",
   };
   
   export { styles };
